@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+  padding: 30px;
+  background-color: gray;
+  margin: 0px;
+  font-size: 55px;
+}
+
+nav {
+  background-color: gray;
+  margin: 0px;
+  padding: 20px;
+}
+
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline;
+  padding: 80px;
+}
+  
+  
+
+
+nav li a {
+  text-decoration: none;
+  padding: 25px;
+  font-size: 35px;
+  color: white;
+  
+}
+
+nav li:hover {
+  background-color: #000000;
+}
